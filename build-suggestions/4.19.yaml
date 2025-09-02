@@ -1,0 +1,7 @@
+default:
+  minor_min: 4.18.0-okd-scos.0
+  minor_max: 4.18.9999-okd-scos
+  minor_block_list: []
+  z_min: 4.19.0-okd-scos.0
+  z_max: 4.19.9999-okd-scos
+  z_block_list: []
